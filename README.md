@@ -50,7 +50,7 @@
 
 **Redundancy**\
 ​*Feature selection and machine learning model prediction:*\
-​		(1) FeatureSelection / MBPSO.py: The main algorithm of the NCOR-FS method (including population initialization and evolution);\
+​		(1) FeatureSelection/MBPSO.py: The main algorithm of the NCOR-FS method (including population initialization and evolution);\
 ​		(2) FeatureSelection/NondominatedSolutionCal.py: Non-dominant solution recognition;\
 ​		(3) FeatureSelection/ViolationDegreeCal.py: Calculation of NCOR Violation;\
 ​		(4) FeatureSelection/DncorCal: Highly correlated feature recognition.
