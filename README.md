@@ -42,14 +42,14 @@
 ​		(2) Partitioning normalization recommends appropriate dataset partitioning methods based on the scale of the dataset, enabling the model to learn the characteristics of the data during the training process and thereby enhancing the model's generalization capability.
 
 **Accuracy**\
-​Outlier detection:
+​Outlier detection:\
 ​    	(1) SingleDimensionalOutlierDetection.py: Single-Dimensional Outlier Detection (Quartile Method);\
    	(2) BoxPlotting.py: Plotting Box Plots (Schematic Diagram of Quartile Results);\
    	(3) MultiDimensionalOutlierDetection.py: Multidimensional outlier sample detection;\
  	   (4) AllDimensionalOutlierDetection.py: Scatter plots are plotted based on clustering of  the samples with all features (descriptors) and target property and target property.
 
 **Redundancy**\
-​Feature selection and machine learning model prediction:
+​Feature selection and machine learning model prediction:\
 ​		(1) FeatureSelection / MBPSO.py: The main algorithm of the NCOR-FS method (including population initialization and evolution);\
 ​		(2) FeatureSelection/NondominatedSolutionCal.py: Non-dominant solution recognition;\
 ​		(3) FeatureSelection/ViolationDegreeCal.py: Calculation of NCOR Violation;\
