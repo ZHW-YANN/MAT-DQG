@@ -2,7 +2,7 @@
 
 **Traceability:** Meta-data records the information of  data itself as well as the process of data acquisition and processing.
 
-|                     | Types     | Items                 |                       | ITems                          |
+|                     | Types     | Items                 |                       | Items                          |
 | ------------------- | --------- | --------------------- | --------------------- | ------------------------------ |
 |                     | Dimension | Descriptor  Name      |                       |                                |
 |                     | Dimension | Target property       |                       | Tasks of Machine learning      |
@@ -22,12 +22,12 @@
 **Time-sensitivity**
 
 ​	CAOP.py:
-​		To determine the minimum embedding dimension for time series data based on permutation entropy. According to the computed results, each temporal feature of the dataset is partitioned, and the classification outcomes of the features are automatically stored.
+​		- To determine the minimum embedding dimension for time series data based on permutation entropy. According to the computed results, each temporal feature of the dataset is partitioned, and the classification outcomes of the features are automatically stored.
 
 **Balance**
 
 ​	Clustering for Balance.py: 
-​		Clustering-based algorithm (e.g., K-means) for clustering the samples with all features (descriptors) and target property, only all features and only target property, respectively.
+​		- Clustering-based algorithm (e.g., K-means) for clustering the samples with all features (descriptors) and target property, only all features and only target property, respectively.
 
 **Consistency**
 
