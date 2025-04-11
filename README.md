@@ -53,10 +53,10 @@
 ​		(1) FeatureSelection / MBPSO.py: The main algorithm of the NCOR-FS method (including population initialization and evolution);\
 ​		(2) FeatureSelection/NondominatedSolutionCal.py: Non-dominant solution recognition;\
 ​		(3) FeatureSelection/ViolationDegreeCal.py: Calculation of NCOR Violation;\
-​		(4) FeatureSelection/DncorCal: Highly correlated feature recognition.\
+​		(4) FeatureSelection/DncorCal: Highly correlated feature recognition.
 
 **Insight**\
 ​​*General program:​*\
 ​		(1) BayesOptModels.py: A variety of machine-learned regression models for modeling and prediction;\
 ​		(2) Prediction.py: Machine learning modeling based on the original dataset and the corrected dataset;\
-​		(3) utiles.py: Encapsulates functions such as creating directories and saving files.\
+​		(3) utiles.py: Encapsulates functions such as creating directories and saving files.
