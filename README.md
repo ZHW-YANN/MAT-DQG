@@ -20,7 +20,6 @@
 |                     | Dataset   | Acquisition  approach |                       | Algorithm and performance      |
 
 **Time-sensitivity**\
-
 ​Permutation entropy.py:\
 ​To determine the minimum embedding dimension for time series data based on permutation entropy. According to the computed results, each temporal feature of the dataset is partitioned, and the classification outcomes of the features are automatically stored.
 
@@ -33,7 +32,7 @@
 ​		(1) ConsistencyDetection.py: Evaluate whether all samples in the material data were uniformly captured or characterized under the same conditions. First, determine whether the units of measurement for each feature in every column are consistent, and standardize them if inconsistencies are found. Then, assess whether the representation formats of features within each column are uniform, applying standardization if discrepancies are detected.\
 ​		(2) Processing.py: Processing the tabular data.
 
-**Completeness **\
+**Completeness**\
 ​CompletenessDetection.py:\
 ​Evaluate the completeness of characteristic values pertaining to the material data itself, determining whether the dataset contains missing values. If missing values are present, the department first calculates the missing data rate for the affected data. Subsequently, multiple imputation methods are employed to fill in the missing data. Upon obtaining a complete dataset, it is automatically saved.
 
