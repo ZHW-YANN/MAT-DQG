@@ -2,22 +2,16 @@
 
 **Traceability:** Meta-data records the information of  data itself as well as the process of data acquisition and processing.
 
-|                     | Types     | Items                 |                       | ITems                          |
-| ------------------- | --------- | --------------------- | --------------------- | ------------------------------ |
-|                     | Dimension | Descriptor  Name      |                       |                                |
-|                     | Dimension | Target property       |                       | Tasks of Machine learning      |
-|                     | Sample    | Sample Name           |                       |                                |
-|                     | Sample    | Sample  source        |                       | Method of Data-preprocessing   |
-|                     | Sample    | Acquisition approach  |                       |                                |
-|                     | Dataset   | Scale                 |                       | Method of feature engineering  |
-| **Basic meta-data** | Dataset   | Material  types       | **Derived meta-data** |                                |
-|                     | Dataset   | Balance               |                       | Method of dataset partitioning |
-|                     | Dataset   | Labelling  quality    |                       |                                |
-|                     | Dataset   | Dataset  source       |                       | Settings of algorithms         |
-|                     | Dataset   | Literature  summary   |                       |                                |
-|                     | Dataset   | DOI                   |                       | Hyperparameter                 |
-|                     | Dataset   | Provider              |                       |                                |
-|                     | Dataset   | Acquisition  approach |                       | Algorithm and performance      |
+| Metadata            | Types     | Field Name       | METADATA              | Field Name                     |
+| ------------------- | --------- | ---------------- | --------------------- | ------------------------------ |
+|                     | Dimension | Descriptor  Name |                       | Tasks of Machine learning      |
+|                     | Dimension | Property         |                       |                                |
+|                     | Sample    | Sample Name      |                       | Method of Data-preprocessing   |
+| **Basic meta-data** | Sample    | Sample  source   | **Derived meta-data** | Method of feature engineering  |
+|                     | Sample    | Acquisition      |                       | Method of dataset partitioning |
+|                     | Dataset   | ID               |                       | Algorithms and performances    |
+|                     | Dataset   | Scale            |                       |                                |
+|                     | Dataset   | Material  types  |                       | Hyperparameter                 |
 
 **Time-sensitivity**\
 ​*​Permutation entropy.py:​*\
