@@ -2,7 +2,7 @@
 
 **Traceability:** Meta-data records the information of  data itself as well as the process of data acquisition and processing.
 
-| Metadata            | Types     | Field Name       | METADATA              | Field Name                     |
+| Metadata            | Types     | Field Name       | Metadata              | Field Name                     |
 | ------------------- | --------- | ---------------- | --------------------- | ------------------------------ |
 |                     | Dimension | Descriptor  Name |                       | Tasks of Machine learning      |
 |                     | Dimension | Property         |                       |                                |
