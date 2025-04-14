@@ -4,14 +4,19 @@
 
 | Metadata            | Types     | Field Name       | Metadata              | Field Name                     |
 | ------------------- | --------- | ---------------- | --------------------- | ------------------------------ |
-|                     | Dimension | Descriptor  Name |                       | Tasks of Machine learning      |
-|                     | Dimension | Property         |                       |                                |
-|                     | Sample    | Sample Name      |                       | Method of Data-preprocessing   |
-| **Basic meta-data** | Sample    | Sample  source   | **Derived meta-data** | Method of feature engineering  |
-|                     | Sample    | Acquisition      |                       | Method of dataset partitioning |
-|                     | Dataset   | ID               |                       | Algorithms and performances    |
+|                     | Dimension | Descriptor  Name |                       |                                |
+|                     | Dimension | Property         |                       | Tasks of Machine learning      |
+|                     | Sample    | Sample Name      |                       |                                |
+|                     | Sample    | Sample  source   |                       | Method of Data-preprocessing   |
+|                     | Sample    | Acquisition      |                       |                                |
+| **Basic meta-data** | Dataset   | ID               | **Derived meta-data** | Method of feature engineering  |
 |                     | Dataset   | Scale            |                       |                                |
-|                     | Dataset   | Material  types  |                       | Hyperparameter                 |
+|                     | Dataset   | Material  types  |                       | Method of dataset partitioning |
+|                     | Dataset   | Dataset source   |                       |                                |
+|                     | Dataset   | Summary          |                       | Algorithms and performances    |
+|                     | Dataset   | DOI              |                       |                                |
+|                     | Dataset   | Contributor      |                       | Hyperparameter                 |
+|                     | Dataset   | AddTime          |                       |                                |
 
 **Time-sensitivity**\
 ​*​Permutation entropy.py:​*\
