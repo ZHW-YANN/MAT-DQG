@@ -2,21 +2,21 @@
 
 **Traceability:** Meta-data records the information of  data itself as well as the process of data acquisition and processing.
 
-| Metadata            | Types     | Field Name       | Metadata              | Field Name                     |
+| Meta-data           | Types     | Field Name       | META-DATA             | Field Name                     |
 | ------------------- | --------- | ---------------- | --------------------- | ------------------------------ |
-|                     | Dimension | Descriptor  Name |                       |                                |
-|                     | Dimension | Property         |                       | Tasks of Machine learning      |
-|                     | Sample    | Sample Name      |                       |                                |
-|                     | Sample    | Sample  source   |                       | Method of Data-preprocessing   |
-|                     | Sample    | Acquisition      |                       |                                |
-| **Basic meta-data** | Dataset   | ID               | **Derived meta-data** | Method of feature engineering  |
-|                     | Dataset   | Scale            |                       |                                |
-|                     | Dataset   | Material  types  |                       | Method of dataset partitioning |
-|                     | Dataset   | Dataset source   |                       |                                |
-|                     | Dataset   | Summary          |                       | Algorithms and performances    |
-|                     | Dataset   | DOI              |                       |                                |
-|                     | Dataset   | Contributor      |                       | Hyperparameter                 |
-|                     | Dataset   | AddTime          |                       |                                |
+|                     | Dimension | Descriptor  Name |                       | Tasks of Machine learning      |
+|                     | Dimension | Property         |                       |                                |
+|                     | Sample    | Sample Name      |                       | Method of Data-preprocessing   |
+|                     | Sample    | Sample  source   |                       |                                |
+|                     | Sample    | Acquisition      |                       | Method of data representation  |
+| **Basic meta-data** | Dataset   | ID               | **Derived meta-data** |                                |
+|                     | Dataset   | Scale            |                       | Method of feature engineering  |
+|                     | Dataset   | Material  types  |                       |                                |
+|                     | Dataset   | Dataset source   |                       | Method of dataset partitioning |
+|                     | Dataset   | Summary          |                       |                                |
+|                     | Dataset   | DOI              |                       | Algorithms and performances    |
+|                     | Dataset   | Contributor      |                       |                                |
+|                     | Dataset   | AddTime          |                       | Hyperparameter                 |
 
 **Time-sensitivity**\
 ​*​Permutation entropy.py:​*\
