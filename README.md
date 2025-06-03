@@ -18,7 +18,7 @@
 |                     | Dataset   | Contributor      |                       |                            |                                |
 |                     | Dataset   | AddTime          |                       |                            | Hyperparameter                 |
 
-**Completeness **
+**Completeness**
 
 ​	CompletenessDetection.py: 
 ​		Evaluate the completeness of characteristic values pertaining to the material data itself, determining whether the dataset contains missing values. If missing values are present, the department first calculates the missing data rate for the affected data. Subsequently, multiple imputation methods are employed to fill in the missing data. Upon obtaining a complete dataset, it is automatically saved.
